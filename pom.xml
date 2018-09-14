@@ -91,12 +91,12 @@
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
-            <version>3.1.1</version>
+            <version>3.4.1</version>
         </dependency>
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis-spring</artifactId>
-            <version>1.2.0</version>
+            <version>1.3.0</version>
         </dependency>
         <!-- Jackson JSON Processor -->
         <dependency>
@@ -161,18 +161,6 @@
             <version>2.4.0</version>
         </dependency>
 
-        <!-- gson -->
-        <dependency>
-            <groupId>com.google.code.gson</groupId>
-            <artifactId>gson</artifactId>
-            <version>2.2.2</version>
-        </dependency>
-        <!-- daemon -->
-        <dependency>
-            <groupId>commons-daemon</groupId>
-            <artifactId>commons-daemon</artifactId>
-            <version>1.0.15</version>
-        </dependency>
     </dependencies>
 
     <build>
